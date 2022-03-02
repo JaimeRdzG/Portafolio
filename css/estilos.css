@@ -1,0 +1,80 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #161616;
+}
+
+.main {
+    padding:30px 50px;
+	position:relative;
+	width:100%;
+	height: 50vh;
+	box-sizing: border-box;
+	background-size: 1330px;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-color: #edf1fd;
+}
+
+.name h1{
+	font-family:Poppins;
+	font-size: 40px;
+	margin:0px;
+	letter-spacing: 3px;
+	color:#292929;
+}
+
+#about {
+    width:100%;
+	height: 100vh;
+	background-color:#161616;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 50px 5% 0px 5%;
+	position: relative;
+}
+
+.about-text{
+	font-family: calibri;
+	width: 50%;
+}
+
+.about-text h1{
+	font-size: 5rem;
+	color:#63D9FF;
+}
+
+.about-text h2{
+	font-size: 3rem;
+	color:#FFFFFF;
+	font-weight: 400;
+}
+
+.about-text h1,h2{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.about-text p{
+	font-size: 1.2rem;
+	color:rgba(255,255,255,0.90);
+	
+}
+
+.social {
+    background-color: #edf1fd;
+}
+
+#materias {
+    background-color: #1C1C1C;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.separator {
+    margin: 30px;
+}
